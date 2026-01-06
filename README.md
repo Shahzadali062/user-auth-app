@@ -46,6 +46,25 @@ It demonstrates a complete authentication flow built using **React Native** and 
 
 ---
 
+##  Mobile Video Demo 
+https://drive.google.com/file/d/1th6h_Iwg_zkipy-EVoMZN8KTOSUkkpWz/view?usp=drivesdk
+
+##  Tablet Video Demo 
+https://drive.google.com/file/d/1fAVDAWhNdcuWEpHxAeeOIzD7kSE9FstY/view?usp=drivesdk
+
+
+##  Setup Instructions
+
+```bash
+git clone https://github.com/Shahzadali062/user-auth-app.git
+cd user-auth-app
+npm install
+
+# Android
+npm run android
+
+---
+
 ## Screenshots
 
 ### Mobile
@@ -84,22 +103,3 @@ It demonstrates a complete authentication flow built using **React Native** and 
 
 **Users Screen**  
 ![Tablet Portrait Home](screenshots/tablet-portrait-user.jpg)
-
----
-
-##  Mobile Video Demo 
-https://drive.google.com/file/d/1th6h_Iwg_zkipy-EVoMZN8KTOSUkkpWz/view?usp=drivesdk
-
-##  Tablet Video Demo 
-https://drive.google.com/file/d/1fAVDAWhNdcuWEpHxAeeOIzD7kSE9FstY/view?usp=drivesdk
-
-
-##  Setup Instructions
-
-```bash
-git clone https://github.com/Shahzadali062/user-auth-app.git
-cd user-auth-app
-npm install
-
-# Android
-npm run android
