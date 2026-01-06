@@ -50,6 +50,8 @@ It demonstrates a complete authentication flow built using **React Native** and 
 ### 📱 Mobile
 
 #### Portrait Mode
+**Splash Screen**  
+![Mobile Landscape Login](screenshots/Mobile-Portrait-Splash.png)
 
 **Login Screen**  
 ![Mobile Portrait Login](screenshots/mobile-portrait-login.png)
