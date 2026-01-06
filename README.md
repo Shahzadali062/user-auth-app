@@ -65,6 +65,8 @@ npm install
 npm run android
 
 ---
+```markdown
+---
 
 ## Screenshots
 
