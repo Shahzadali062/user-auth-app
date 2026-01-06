@@ -53,6 +53,9 @@ https://drive.google.com/file/d/1th6h_Iwg_zkipy-EVoMZN8KTOSUkkpWz/view?usp=drive
 ##  Tablet Video Demo 
 https://drive.google.com/file/d/1fAVDAWhNdcuWEpHxAeeOIzD7kSE9FstY/view?usp=drivesdk
 
+##  APK file for testing
+https://drive.google.com/file/d/1KJk9Fu9Fm2wi6r88i8arVe6PGES_H3BK/view?usp=sharing
+
 
 
 ---
