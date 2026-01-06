@@ -54,18 +54,7 @@ https://drive.google.com/file/d/1th6h_Iwg_zkipy-EVoMZN8KTOSUkkpWz/view?usp=drive
 https://drive.google.com/file/d/1fAVDAWhNdcuWEpHxAeeOIzD7kSE9FstY/view?usp=drivesdk
 
 
-##  Setup Instructions
 
-```bash
-git clone https://github.com/Shahzadali062/user-auth-app.git
-cd user-auth-app
-npm install
-
-# Android
-npm run android
-
----
-```markdown
 ---
 
 ## Screenshots
@@ -105,3 +94,15 @@ npm run android
 
 **Users Screen**  
 ![Tablet Portrait Home](screenshots/tablet-portrait-user.jpg)
+
+
+
+##  Setup Instructions
+
+```bash
+git clone https://github.com/Shahzadali062/user-auth-app.git
+cd user-auth-app
+npm install
+
+# Android
+npm run android
