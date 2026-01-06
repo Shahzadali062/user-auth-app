@@ -30,6 +30,7 @@ It demonstrates a complete authentication flow built using **React Native** and 
 - Login Screen
 - Signup Screen
 - Home Screen (User details + Logout)
+- Users List Screen
 
 ### Navigation
 - Implemented using React Navigation
