@@ -85,7 +85,6 @@ npm run android
 **Users List**  
 ![Mobile Portrait Home](screenshots/mobile-portrait-user.jpg)
 
-
 ---
 
 ### Tablet
