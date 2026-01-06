@@ -47,7 +47,7 @@ It demonstrates a complete authentication flow built using **React Native** and 
 
 ## Screenshots
 
-### 📱 Mobile
+### Mobile
 
 **Splash Screen**  
 ![Mobile Landscape Login](screenshots/Mobile-Portrait-Splash.jpg)
@@ -67,7 +67,7 @@ It demonstrates a complete authentication flow built using **React Native** and 
 
 ---
 
-### 📲 Tablet
+### Tablet
 
 **Splash Screen**  
 ![Mobile Landscape Login](screenshots/tablet-Portrait-Splash.jpg)
@@ -86,7 +86,14 @@ It demonstrates a complete authentication flow built using **React Native** and 
 
 ---
 
-## ⚙️ Setup Instructions
+##  Mobile Video Demo 
+https://drive.google.com/file/d/1th6h_Iwg_zkipy-EVoMZN8KTOSUkkpWz/view?usp=drivesdk
+
+##  Tablet Video Demo 
+https://drive.google.com/file/d/1fAVDAWhNdcuWEpHxAeeOIzD7kSE9FstY/view?usp=drivesdk
+
+
+##  Setup Instructions
 
 ```bash
 git clone https://github.com/Shahzadali062/user-auth-app.git
