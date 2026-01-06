@@ -25,6 +25,7 @@ It demonstrates a complete authentication flow built using **React Native** and 
 - Password length validation (minimum 6 characters)
 - Clear error messages with clean UI
 - Password visibility toggle (eye icon)
+- App Launcher Icon
 
 ### Screens
 - Login Screen
