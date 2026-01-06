@@ -8,10 +8,13 @@ export const styles = StyleSheet.create({
     width: '100%',
     paddingHorizontal: 18,
     alignItems: 'center',
-    justifyContent: 'center',
+    justifyContent: 'flex-start', // ✅ important: allows content to take full height
+    paddingTop: 18,
+    paddingBottom: 18,
   },
 
   container: {
+    flex: 1, // ✅ important: gives list area height
     width: '100%',
     maxWidth: 520,
     alignSelf: 'center',
@@ -49,6 +52,7 @@ export const styles = StyleSheet.create({
   },
 
   card: {
+    flex: 1, // ✅ important: takes remaining height -> FlatList can scroll
     width: '100%',
     backgroundColor: colors.card,
     borderRadius: 20,
@@ -56,7 +60,11 @@ export const styles = StyleSheet.create({
     borderWidth: 1,
     borderColor: colors.border,
     elevation: 2,
-    minHeight: 180,
+    overflow: 'hidden',
+  },
+
+  listContent: {
+    paddingBottom: 10,
   },
 
   emptyText: {

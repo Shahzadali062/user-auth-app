@@ -71,12 +71,15 @@ export default function UsersScreen({ navigation }: Props) {
           {/* List */}
           <View style={styles.card}>
             {users.length === 0 ? (
-              <AppText style={styles.emptyText}>No users found. Create an account from Signup.</AppText>
+              <AppText style={styles.emptyText}>
+                No users found. Create an account from Signup.
+              </AppText>
             ) : (
               <FlatList
                 data={users}
                 keyExtractor={(item) => item.email}
-                contentContainerStyle={{ paddingBottom: 10 }}
+                style={{ flex: 1 }} // ✅ gives FlatList height -> enables scroll
+                contentContainerStyle={styles.listContent}
                 showsVerticalScrollIndicator={false}
                 ItemSeparatorComponent={() => <View style={styles.separator} />}
                 renderItem={({ item }) => (
@@ -88,7 +91,6 @@ export default function UsersScreen({ navigation }: Props) {
                     <View style={{ flex: 1 }}>
                       <AppText style={styles.userName}>{item.name}</AppText>
                       <AppText style={styles.userMeta}>{item.email}</AppText>
-                      {/* You asked to show password visible */}
                       <AppText style={styles.userMeta}>Password: {item.password}</AppText>
                     </View>
                   </View>
