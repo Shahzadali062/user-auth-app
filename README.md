@@ -49,46 +49,40 @@ It demonstrates a complete authentication flow built using **React Native** and 
 
 ### 📱 Mobile
 
-#### Portrait Mode
 **Splash Screen**  
 ![Mobile Landscape Login](screenshots/Mobile-Portrait-Splash.jpg)
 
 **Login Screen**  
-![Mobile Portrait Login](screenshots/mobile-portrait-login.png)
+![Mobile Portrait Login](screenshots/mobile-portrait-login.jpg)
 
 **Signup Screen**  
-![Mobile Portrait Signup](screenshots/mobile-portrait-signup.png)
+![Mobile Portrait Signup](screenshots/mobile-portrait-signup.jpg)
 
 **Home Screen**  
-![Mobile Portrait Home](screenshots/mobile-portrait-home.png)
+![Mobile Portrait Home](screenshots/mobile-portrait-home.jpg)
 
----
+**Users List**  
+![Mobile Portrait Home](screenshots/mobile-portrait-user.jpg)
 
-#### Landscape Mode
-
-**Login Screen**  
-![Mobile Landscape Login](screenshots/mobile-landscape-login.png)
-
-**Signup Screen**  
-![Mobile Landscape Signup](screenshots/mobile-landscape-signup.png)
-
-**Home Screen**  
-![Mobile Landscape Home](screenshots/mobile-landscape-home.png)
 
 ---
 
 ### 📲 Tablet
 
-#### Portrait Mode
+**Splash Screen**  
+![Mobile Landscape Login](screenshots/tablet-Portrait-Splash.jpg)
 
 **Login Screen**  
-![Tablet Portrait Login](screenshots/tablet-portrait-login.png)
+![Tablet Portrait Login](screenshots/tablet-portrait-login.jpg)
 
 **Signup Screen**  
-![Tablet Portrait Signup](screenshots/tablet-portrait-signup.png)
+![Tablet Portrait Signup](screenshots/tablet-portrait-signup.jpg)
 
 **Home Screen**  
-![Tablet Portrait Home](screenshots/tablet-portrait-home.png)
+![Tablet Portrait Home](screenshots/tablet-portrait-home.jpg)
+
+**Users Screen**  
+![Tablet Portrait Home](screenshots/tablet-portrait-user.jpg)
 
 ---
 
