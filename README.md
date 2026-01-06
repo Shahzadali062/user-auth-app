@@ -1,7 +1,7 @@
 # User Authentication App
 
-This project is a take-home assignment completed for **Kloudius Services.**  
-It demonstrates authentication flow implementation.
+This project is a take-home assignment completed for **Kloudius Services**.  
+It demonstrates a complete authentication flow built using **React Native** and **TypeScript**, focusing on state management, validation, persistence, and user experience.
 
 ---
 
@@ -11,11 +11,11 @@ It demonstrates authentication flow implementation.
 - Login
 - Signup
 - Logout
-- Global authentication state using **React Context API**
+- Global authentication state using React Context API
 
 ### User Management
 - Multiple users supported
-- Users stored locally using **AsyncStorage**
+- Users stored locally using AsyncStorage
 - Login possible with any registered user
 - Persistent login after app restart
 
@@ -23,7 +23,7 @@ It demonstrates authentication flow implementation.
 - Required field validation
 - Email format validation
 - Password length validation (minimum 6 characters)
-- Error messages with clean UI
+- Clear error messages with clean UI
 - Password visibility toggle (eye icon)
 
 ### Screens
@@ -32,16 +32,29 @@ It demonstrates authentication flow implementation.
 - Home Screen (User details + Logout)
 
 ### Navigation
-- Implemented using **React Navigation**
+- Implemented using React Navigation
 
 ---
 
-## 🛠 Tech Stack
+## Tech Stack
 - React Native
 - TypeScript
 - React Context API
 - AsyncStorage
 - React Navigation
+
+---
+
+## Screenshots
+
+### Login Screen
+![Login Screen](screenshots/login.png)
+
+### Signup Screen
+![Signup Screen](screenshots/signup.png)
+
+### Home Screen
+![Home Screen](screenshots/home.png)
 
 ---
 
